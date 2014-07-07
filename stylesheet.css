@@ -1,0 +1,191 @@
+body {
+	background-color: #b7d1c4
+}
+
+p {color:green;
+	font-family: Courier;
+font-weight: bold;
+font-size: 20px;
+}
+
+h2 {font-size: 15px;
+text-align: center;
+font-family: courier;
+}
+
+.fancy {font-family: cursive;}
+	
+#header {
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	box-shadow: 10px 10px 5px #888888;
+
+}
+#header {font-size: 70px;
+text-align: center;
+font-family: Courier;
+}
+
+h3 {text-align: center;
+font-family: Courier;
+font-size: 18px;
+text-decoration: none;
+}
+
+h4 {text-align: center;
+font-family: Courier;
+font-size: 16px;
+}
+
+h5 {text-align: center;
+font-family: Courier;
+font-size: 16px;}
+
+h6 {font-family: Courier;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+
+
+li {font-family: Courier;}
+
+#pic1 {
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-bottom: 10px;
+	border:2px solid gray;
+	border-radius: 2px;
+	overflow: hidden;
+
+
+}
+
+
+#pic2 {
+	margin-left: 250px;
+	margin-right: 200px;
+	border-radius: 15px;
+}
+#texty{
+	color: black;
+	font-size: 16px;
+	font-family: Courier;
+	font-weight: bold;
+	text-align: center;
+	margin-right: 200px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+}
+
+.yuck {font-weight: bold;
+}
+
+.sue {font-style: italic;
+}
+	
+.sue:hover{
+        background-color: orange;
+        color:white;
+}
+
+#click {margin-left: 300px;
+		margin-right: 300px;
+		font-family: Courier;
+		background-color: white;
+		font-size: 10px;
+		
+}
+
+.white {font-color:white;}
+
+#middle {position: relative;
+	top: -10px;
+	background-color: #666699;
+	margin-right: 250px;
+	margin-left: 250px;
+	
+}
+
+
+#brick {margin-left: 175px;
+		margin-right: 175px;
+		margin-bottom: 30px;
+		font-family: Courier;
+		font-weight: bold;
+		text-align: center;
+	}
+
+
+#lower {background-color: #8585AD;
+	position: relative;
+	top: -10px;
+	margin-right: 250px;
+	margin-left: 250px;
+	font-weight: lighter;
+}
+
+#lowest {background-color: #A3A3C2;
+	position: relative;
+	top: -10px;
+	margin-right: 250px;
+	margin-left: 250px;
+	text-align: center;
+	font-family: Courier;
+	}
+
+#oil {font-family: Courier;
+	font-size: 16px;
+}
+#butter {font-family: Courier;
+	font-size: 16px;
+}
+#cardamom {font-family: Courier;
+	font-size: 16px;
+}
+#cumin {font-family: Courier;
+	font-size: 16px;
+}
+#garam {font-family: Courier;
+	font-size: 16px;
+}
+#mustard {font-family: Courier;
+	font-size: 16px;
+}
+#onion {font-family: Courier;
+	font-size: 16px;
+}
+#garlic {font-family: Courier;
+	font-size: 16px;
+}
+#spianch {font-family: Courier;
+	font-size: 16px;
+}
+#cilantro {font-family: Courier;
+	font-size: 16px;
+}
+#lime {font-family: Courier;
+	font-size: 16px;
+}
+#almond {font-family: Courier;
+	font-size: 16px;
+}
+#stock {font-family: Courier;
+	font-size: 16px;
+}
+#paste {font-family: Courier;
+	font-size: 16px;
+}
+#paneer {font-family: Courier;
+	font-size: 16px;
+}
+#fin {
+	margin-right: 250px;
+	margin-left: 250px;
+}
+}
+
+}
